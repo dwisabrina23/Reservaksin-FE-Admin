@@ -12,7 +12,7 @@ function CardStatistik() {
         <Container className='container-content'>
             <Row style={{width: '100%'}}>
                 <Col style={{ marginTop:'2rem'}} md>
-                    <Card className='card-style'>
+                    <Card className='card-style card-style-gradient'>
                         {/* <Card.Header>Header</Card.Header> */}
                         <Card.Body className='card-style-body'>
                             <Row>
