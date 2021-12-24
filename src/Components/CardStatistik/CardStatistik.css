@@ -7,8 +7,8 @@
 .card-style {
   width: 255px;
   height: 110px;
-  /* margin: 0;
-  border: 3px solid; */
+  margin: 0;
+  border: 1px solid;
   border-radius: 10px;
   border-image-slice: 1;
   border-image: linear-gradient(45deg, #0d5389, #74b9f5, #d4e3f3) 10;
@@ -16,7 +16,6 @@
 
 .card-style-gradient {
   border-image-source: linear-gradient(to bottom, #0d5389, #74b9f5, #d4e3f3) 10;
-  /* border-radius: 10px; */
 }
 
 .card-style-body {
